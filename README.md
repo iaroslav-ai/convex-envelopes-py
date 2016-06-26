@@ -4,4 +4,4 @@ This python code implements the convex extension of the user defined function. F
 
 You need python 2.7 to use this repository, together with standard python scientific computing routines like numpy, scipy. The easiest way to install those is to use [Anaconda distribution.](https://www.continuum.io/downloads).
 
-This code should work on Windows, Mac OS and Linux. If not, please let me know.
+This code should work on Windows, Mac OS and Linux. If not, please let us know in the issues.
