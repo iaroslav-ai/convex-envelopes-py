@@ -1,4 +1,6 @@
-# Supplement to Shcherbatyi, Iaroslav, and Bjoern Andres. "Convexification of Learning from Constraints." arXiv preprint arXiv:1602.06746 (2016).
+Convexification of Learning from Constraints.
+
+This code demonstrates techniques to obtain a convex optimization problem whose solution are equivalent to solution of optimization of the form min_{w \in W,y \in Y} f(w,y) + r(w), where it is assumed that f(w, y) is convex for fixed y and r is convex.
 
 This python code implements the convex extension of the user defined function. For some of the functions, their optimized convex extensions are available. 
 
