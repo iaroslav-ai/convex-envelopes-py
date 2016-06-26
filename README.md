@@ -2,6 +2,8 @@
 
 This code demonstrates techniques to obtain a convex optimization problem whose solution are equivalent to solution of optimization of the form min_{w \in W,y \in Y} f(w,y) + r(w), where it is assumed that f(w, y) is convex for fixed y and r is convex.
 
+\\(Y \in R^{n} \\)
+
 This python code implements the convex extension of the user defined function. For some of the functions, their optimized convex extensions are available. 
 
 You need python 2.7 to use this repository, together with standard python scientific computing routines like numpy, scipy. The easiest way to install those is to use [Anaconda distribution.](https://www.continuum.io/downloads).
