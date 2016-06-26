@@ -8,6 +8,6 @@ You need python 2.7 to use this repository, together with standard python scient
 
 This code should work on Windows, Mac OS and Linux. If not, please let us know in the issues.
 
-##Contents:
+###Contents:
 
-general_envelope.py: implements convex extension of arbitrary function f(w,y), if f is convex for fixed y. See example usage in the file itself or run it to see it in action.
+**general_envelope.py**: implements convex extension of arbitrary function f(w,y), if f is convex for fixed y. See example usage in the file itself or run it to see it in action.
