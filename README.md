@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 #Convexification of Learning from Constraints
 
 This code demonstrates techniques to obtain a convex optimization problem whose solution are equivalent to solution of optimization of the form min_{w \in W,y \in Y} f(w,y) + r(w), where it is assumed that f(w, y) is convex for fixed y and r is convex.
